@@ -1,2 +1,2 @@
 # Design a Pricing Plans Layout Page
-Design a Pricing Plans Layout Page free code camp
+Design a Pricing Plans Layout Page Free Code Camp. This wsa basic HTML and CSS with Flex box. Utilizing the hover effect to give the idea of animation when selecting a plan. 
