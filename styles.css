@@ -80,12 +80,13 @@ a {
 }
 
 .pro-plan {
-  order: 1;
+    flex-grow: 2;
+    order: 1;
   /* flex-grow: 2; */
   background: #f0f8ff;
 }
 
 .premium-plan {
     flex-grow: 1; 
-  order: 2;
+    order: 2;
 }
