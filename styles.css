@@ -5,6 +5,7 @@ body {
     flex-direction: column;
     min-height: 100vh;
     margin: 8px;
+    min-height: 100vh;
 }
 
 h1 {
@@ -26,7 +27,8 @@ h1 {
     padding: 0 20px;
 }
 
- {
+ 
+.pricing-card{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -37,6 +39,10 @@ h1 {
     padding: 20px;
     text-align: center;
     transition: transform 0.3s ease;
+}
+
+.pricing-card:hover {
+    transform: scale(1.05);
 }
 
 
